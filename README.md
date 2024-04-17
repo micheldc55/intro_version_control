@@ -1,2 +1,3 @@
-# intro_version_control
-This repository is used as the main repository for version control
+# Intro to Version Control
+
+This repository is used as the main repository for teaching version control.
